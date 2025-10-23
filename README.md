@@ -57,20 +57,9 @@ Key Features
 Technologies Used
 
 
-Frontend:               
-HTML, CSS, JavaScript, React.js / Angular / Vue.js                          
-Backend:              
-Node.js with Express / Python with Django or Flask / PHP / Java Spring Boot 
-Database:             
-MySQL / PostgreSQL / MongoDB / Firebase                                     
-Authentication:       
-JWT (JSON Web Token), OAuth 2.0, Session Cookies                            
-Password Security:    
-bcrypt, Argon2, SHA-256                                                     
-APIs (optional):      
-Google OAuth, Facebook Login, Email services (SendGrid, Nodemailer)         
-Hosting / Deployment: 
-AWS, Vercel, Render, Firebase Hosting, Heroku                               
+Frontend:
+               
+HTML, CSS 
 
 
 Challenges Faced

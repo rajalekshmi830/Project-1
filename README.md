@@ -1,3 +1,5 @@
+Login Authentication System
+
 Project Overview
 
 A Login Authentication System is a security module that manages user access to an application by verifying credentials (e.g., username/email and password). Its main goal is to ensure that only authorized users can access protected resources or functionalities.
